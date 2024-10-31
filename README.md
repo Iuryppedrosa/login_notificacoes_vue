@@ -1,5 +1,6 @@
 ---
-[![Captura de tela 2024-10-31 160622](https://github.com/user-attachments/assets/54eb8614-2a9a-4b12-a222-9fd775f7cef3)]
+![Captura de tela 2024-10-31 160622](https://github.com/user-attachments/assets/54eb8614-2a9a-4b12-a222-9fd775f7cef3)
+![Captura de tela 2024-10-31 160553](https://github.com/user-attachments/assets/ea612b90-fcec-4143-9503-4864f3af6840)
 
 # 🎓 Projeto de Estudos Vue.js com TypeScript e Pinia
 
